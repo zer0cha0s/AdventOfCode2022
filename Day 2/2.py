@@ -8,7 +8,6 @@ for x in X:
         ('B', 'X'): 0,('B', 'Y'): 3, ('B', 'Z'): 6,
         ('C', 'X'): 6,('C', 'Y'): 0, ('C', 'Z'): 3,
         }[(op, me)]
- 
 print('Part 1: ' + str(score))
 
 score = 0
